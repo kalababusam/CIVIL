@@ -1,6 +1,24 @@
 h1  {
-  color: #66BFBF;
+  background-color: yellow;
   font-size: 5.625rem;
   margin-top: 50px;
   font-family: "Sacramento" , cursive;
+
+}
+
+#features {
+  padding: 7%;
+}
+
+.feature-box {
+  padding: 5%;
+  text-align: center;
+}
+
+.title-image {
+  width: 50%;
+}
+
+.title-image-1 {
+  width: 70%;
 }
